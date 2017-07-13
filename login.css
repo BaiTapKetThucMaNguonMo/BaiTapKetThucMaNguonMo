@@ -1,0 +1,163 @@
+
+.dangnhap {
+    color: red;
+    background-image:url(3.jpg);
+    height: 700px;
+}
+
+td {
+    padding: 10px;
+}
+
+table.bang {
+    padding: 42px;
+    margin-left: 612px;
+}
+
+td {
+    background-color: darkkhaki;
+}
+
+tr#body {
+    background-color: khaki;
+}
+
+.menu {
+    background-color: lightgray;
+}
+
+tbody {
+    background-color: darkkhaki;
+}
+
+
+#danhmuc td {
+    background-color: darkkhaki;
+    color: deeppink;
+    text-align: -webkit-center;
+}
+
+/* table.left-menu {
+    margin-top: 250px;
+    margin-left: 300px;
+    padding: 10px;
+} */
+/* 
+table.left-menu {
+    text-align: center;
+    padding: px;
+    padding: 250px;
+    margin: 90px;
+    margin-left: px;
+    margin-left: 70px;
+    color: black;
+    background-color: #66ff66;
+} */
+/* table#thanhkeo{
+margin:0px auto;
+}
+table#thanhkeo tr td#header table tr td#navbar{
+background:url(1.jpg)) top left repeat-x;
+
+}
+table#thanhkeo tr td#header table tr td#navbar table tr td{
+font-family:arial;
+
+}
+table#thanhkeo tr td#header table tr td#navbar table tr td a{
+
+text-decoration:none;
+text-transform:capitalize;
+}
+table.left-menu{
+border-left:1px solid #cdcdcd;
+border-right:1px solid #cdcdcd;
+border-bottom:1px solid #cdcdcd;
+
+}
+table.left-menu tr.bg-leftbar{
+font-family:tahoma;
+font-size:13px;
+font-weight:bold;
+color:#0FF;
+text-transform:uppercase;
+background:url(../images/thanhkeo.jpg) top left repeat-x;
+}
+table.left-menu tr.bg-leftbar td{
+padding-left:10px;
+}
+table.left-menu tr.menu-item{
+font-family:arial;
+font-size:13px;
+background:url(../images/thanhkeo.jpg) bottom left no-repeat;
+}
+table.left-menu tr.menu-item a{
+color:#0f0f0f;
+text-decoration:none;
+text-transform:capitalize;
+}
+table.left-menu tr.menu-item a:hover{
+color:#797875;
+}
+table.left-menu tr.menu-item td{
+padding-left:10px;
+}
+table.left-menu tr td#user-info{
+font-family:arial;
+font-size:13px;
+color:#0f0f0f;
+padding:10px;
+}
+table.left-menu tr td#user-info b{
+color:#FF0000;
+}
+table.left-menu tr td#logout a{
+font-family:arial;
+font-size:11px;
+font-weight:bold;
+color:#FF0000;
+text-decoration:none;
+text-transform:capitalize;
+padding-right:10px;
+}
+table.left-menu tr td#logout a:hover{
+text-decoration:underline;
+}
+table#thanhkeo tr#body td table{
+margin-bottom:20px;
+}
+table#main-content{
+border-left:1px solid #cdcdcd;
+border-right:1px solid #cdcdcd;
+border-bottom:1px solid #cdcdcd;
+}
+table#main-content tr#main-navbar{
+	background:url(../images/thanhkeo.jpg) top left repeat-x;
+font-family:arial;
+font-size:13px;
+font-weight:bold;
+color:#FFFFFF;
+text-transform:uppercase;
+}
+table#main-content tr#main-navbar td{
+padding:0px 10px;
+text-decoration:none;
+}
+table#main-content tr td#info{
+	
+font-family:tahoma;
+font-size:13px;
+color:#0f0f0f;
+padding:10px;
+line-height:30px;
+text-decoration:none;
+}
+table tr td#footer{
+font-family:tahoma;
+font-size:13px;
+color:#FFFFFF;
+text-transform:capitalize;
+background:url(../images/thanhkeo.jpg) bottom left repeat-x;
+}
+
+ */
