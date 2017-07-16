@@ -75,3 +75,7 @@ Dưới đây là một vài guideline bạn nên theo khi viết code trong l�
 Tạo độ thụt đầu dòng và độ dài dòng code − sử dụng một độ thụt dòng của không gian 4 chiều và không sử dụng bất kỳ tab nào bởi vì các máy tính khác nhau sử dụng thiết lập khác nhau cho các tab. Về độ dài dòng code, bạn nên giữ dòng code có độ dài khoảng 75-85 ký tự, việc này giúp code của bạn trở nên dễ đọc hơn.
 
 Cấu trúc điều khiển − Nó bao gồm if, for, while, switch,… . Các lệnh điều khiển sẽ có một khoảng cách giữa từ khóa điều khiển và dấu mở ngoặc, để phân biệt chúng với các lời gọi hàm. Bạn được khuyến khích mạnh mẽ để luôn luôn sử dụng dấu ngoặc nhọn bất cứ khi nào có thể.
+
+
+**Trong quá trình làm bài chúng em xin chân thành cảm ơn thầy Mai Cường Thọ đã nhiệt tình hướng dẫn! E xin chân thành cảm ơn thầy**
+
